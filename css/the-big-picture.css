@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+html{
+  font-family: sans-serif;
+}
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+/*
+.full {
+  background: url(http://placehold.it/1920x1080) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+ul{
+  margin: 0;
+  padding: 1em; /* Set the distance from the list edge to 1x the font size */
+  list-style-type: none;
+  list-style-position: outside;
+  list-style-image: none;
+  list-style-type: none;
+}
+
+a {
+  color: black;
+}

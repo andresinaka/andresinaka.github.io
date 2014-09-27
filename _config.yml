@@ -1,0 +1,11 @@
+# Site settings
+title: Andres
+description: > # this means to ignore newlines until "baseurl:"
+  I'm from Argentina. I'm an engineer and I've been programing for a very long
+  time. I currently work as an iOS and Ruby backend developer creating REST apis 
+  to be consumed by mobile applications. I'm always happy and eager to learn 
+  new technologies.
+
+url: "http://andresinaka.github.io" # the base hostname & protocol for your site
+twitter_username: andangc
+github_username:  andresinaka
