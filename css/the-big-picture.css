@@ -4,15 +4,14 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-html{
-  font-family: sans-serif;
+body {
+    color: #312516;
+    font-family: adobe-garamond-pro,Palatino Linotype,Palatino,serif;
+    font-size: 20px;
+    line-height: 1.6em;
+    margin-top: 50px;
 }
 
-body {
-	margin-top: 50px;
-	margin-bottom: 50px;
-	background: none;
-}
 /*
 .full {
   background: url(http://placehold.it/1920x1080) no-repeat center center fixed; 
@@ -21,6 +20,14 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }*/
+
+.container{
+  background-color: rgb(242,242,242)
+}
+
+p {
+  padding-bottom: 15px;
+}
 
 ul{
   margin: 0;
